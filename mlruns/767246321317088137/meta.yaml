@@ -1,0 +1,6 @@
+artifact_location: file:///c:/Users/%C3%9Cmm%C3%BChan/SNN/mlruns/767246321317088137
+creation_time: 1741606041420
+experiment_id: '767246321317088137'
+last_update_time: 1741606041420
+lifecycle_stage: active
+name: MNIST_CNN_Experiment
